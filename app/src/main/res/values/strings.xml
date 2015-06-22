@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ColourFacts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mainScreenText">Enter your favourite colour to learn something about it</string>
+    <string name="factButton">Find Fact</string>
+    <string name="title_activity_colour">ColourActivity</string>
+
+</resources>
